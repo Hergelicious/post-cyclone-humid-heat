@@ -1,4 +1,3 @@
-```markdown
 # Dangerous humid heat increasingly overlaps recovery after tropical cyclone landfalls: code and result tables
 
 This release holds the analysis scripts, the result tables behind every number in the paper, the small
