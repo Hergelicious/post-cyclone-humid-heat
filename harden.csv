@@ -1,0 +1,21 @@
+test,outcome,n,estimate,95% CI
+"Poisson, region FE",POWER HI>=35,1418,74% per °C,48 to 103%
+"Poisson, region FE",POWER HI>=40.6,783,124% per °C,10 to 359%
+"Poisson, region FE",ERA5 Tw>=26,1328,98% per °C,58 to 148%
+"Poisson, region FE",ERA5 Tw>=28,632,795% per °C,318 to 1817%
+Country bootstrap (499),POWER HI>=35,1568,4.95 days per °C,3.25 to 6.47
+Country bootstrap (499),POWER HI>=40.6,1568,1.21 days per °C,0.28 to 1.87
+Country bootstrap (499),ERA5 Tw>=26,1494,5.15 days per °C,3.19 to 6.95
+Country bootstrap (499),ERA5 Tw>=28,1494,1.42 days per °C,0.44 to 2.68
+Leave out basin EP,POWER HI>=35,1472,4.91 days per °C,3.19 to 6.63
+Leave out basin EP,ERA5 Tw>=26,1405,5.16 days per °C,2.89 to 7.43
+Leave out basin NI,POWER HI>=35,1409,5.11 days per °C,3.32 to 6.91
+Leave out basin NI,ERA5 Tw>=26,1345,4.77 days per °C,2.74 to 6.80
+Leave out basin SI,POWER HI>=35,1372,4.94 days per °C,3.09 to 6.80
+Leave out basin SI,ERA5 Tw>=26,1307,4.85 days per °C,2.86 to 6.84
+Leave out basin SP,POWER HI>=35,1470,4.74 days per °C,3.07 to 6.42
+Leave out basin SP,ERA5 Tw>=26,1401,5.12 days per °C,2.97 to 7.27
+Leave out basin WP,POWER HI>=35,854,6.03 days per °C,3.97 to 8.10
+Leave out basin WP,ERA5 Tw>=26,807,6.50 days per °C,2.81 to 10.20
+Leave out basin NA,POWER HI>=35,1264,4.39 days per °C,2.52 to 6.26
+Leave out basin NA,ERA5 Tw>=26,1206,5.02 days per °C,2.63 to 7.41
