@@ -1,0 +1,8 @@
+variant,corr_with_base,n_lowcap,overlap,added,dropped
+leave out elec,0.996,8,8,[],[]
+leave out water,0.995,8,8,[],[]
+leave out san,0.997,7,7,[],['VU']
+leave out undernour,0.994,8,8,[],[]
+leave out washmort,0.99,6,6,[],"['VU', 'YE']"
+"rank-based, top 15%",0.896,6,6,[],"['VU', 'YE']"
+500 random weights (Dirichlet),0.91,Jaccard mean,, ,
