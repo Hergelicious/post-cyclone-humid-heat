@@ -13,7 +13,7 @@ intermediate files, and a script that checks the headline numbers. Release of 15
 | `pilot/` | Analysis scripts and the tables they write (`.csv`, small `.pkl`, `.npz`) |
 | `pilot/legacy/` | Earlier versions and exploratory scripts, kept for the record; not needed for any result in the paper |
 | `data/` | Small intermediate inputs (CMIP6 slopes and human-induced changes at cells and counties, ERA5 point list, station lists, EAGLE-I data-quality index). Large raw inputs are downloaded by the scripts listed below |
-| `manuscript/` | Anonymised manuscript and Supplementary Information (Word) |
+
 
 All scripts use paths relative to the release root (`pilot/...`, `data/...`). Run them from the root, or through
 `run.py`, which changes to the root first.
