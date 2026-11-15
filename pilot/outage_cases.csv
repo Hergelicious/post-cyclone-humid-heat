@@ -1,0 +1,9 @@
+city,storm,evidence_grade,milestones_day_share_without_power,nightlight_share_lost,reported_share_without_power,people_affected_low_million,people_affected_high_million,days_without_power_per_person,hot35_days_per_person,hot406_days_per_person,human_share_hi35,sources
+Bhubaneswar,Fani 2019,B,day 0: 1.00; day 6: 0.63; day 7.5: 0.50; day 12: 0.14; day 14: 0.12,0.82,1.0,1.09,1.32,7.44,7.44,3.49,-0.0,"main refs 30, 35"
+Kolkata,Amphan 2020,B,day 0: 1.00; day 5: 0.05; day 7: 0.03,0.44,,6.93,15.85,2.7,2.7,1.08,0.16,main ref 31
+Houston,Beryl 2024,B,day 0: 1.00; day 1: 0.75; day 2: 0.60; day 3: 0.49; day 4: 0.38; day 6: 0.20; day 10: 0.00,0.55,0.87,3.82,5.99,3.51,3.51,0.0,0.36,"main refs 32, 34"
+NewOrleans,Ida 2021,A,day 0: 1.00; day 11: 0.02; day 12: 0.00,0.45,1.0,0.47,1.03,5.62,4.82,0.0,0.62,"main refs 33, 36"
+SanJuan,Maria 2017,A,day 0: 1.00; day 100: 0.45; day 170: 0.10,0.82,1.0,2.0,2.43,91.75,1.8,0.0,1.0,"main refs 36, 60"
+Visakhapatnam,Hudhud 2014,C,day 0: 1.00; day 3: 0.80; day 14: 0.00,0.59,1.0,1.45,2.44,7.1,0.0,0.0,,"main refs 36, 59"
+Zhanjiang,Mujigae 2015,B,day 0: 1.00; day 2: 0.22; day 5: 0.00,0.56,,0.8,1.43,1.55,0.29,0.0,0.62,main ref 60
+Maoming,Mujigae 2015,C,day 0: 1.00; day 2: 0.22; day 5: 0.00,0.63,,0.86,1.36,1.55,0.0,0.0,,main ref 60

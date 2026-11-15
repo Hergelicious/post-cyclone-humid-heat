@@ -1,0 +1,9 @@
+city,date,rep_lo,rep_hi,hi35,hi406,himax,ntl_last_dark,ntl_rec,source
+SanJuan,2017-09-20,100,170,3–3,0–0,36.2,55.0,,55% of customers restored after 100 days; 90% after about 170 days
+Bhubaneswar,2019-05-03,8,13,8–13,6–11,43.5,1.0,52.0,"half of 450,000 consumers restored on day 7–8; pockets without power on day 13"
+NewOrleans,2021-08-29,10,11,7–7,0–0,39.2,8.0,12.0,vast majority restored on day 10; 98% on day 11
+Visakhapatnam,2014-10-12,3,14,0–0,0–0,34.5,42.0,46.0,about 20% of the city supplied on day 3; full restoration estimated at about two weeks
+Zhanjiang,2015-10-04,2,5,0–1,0–0,35.6,3.0,15.0,78% of households restored by day 2; parts still without power on day 5
+Maoming,2015-10-04,2,5,0–0,0–0,34.7,7.0,10.0,regional figures as for Zhanjiang
+Calcutta,2020-05-20,5,7,5–7,4–6,45.1,3.0,34.0,utility reported 95% restored on day 5; pockets until day 7
+Houston,2024-07-08,7,10,7–10,0–2,42.7,1.0,9.0,1.3 million customers still out on day 2; most restored by day 10

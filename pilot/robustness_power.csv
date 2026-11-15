@@ -1,0 +1,13 @@
+analysis,outcome,n,days_per_C,lo,hi
+"Main (all landfalls, 30 days)",d35,1568,4.95,3.27,6.64
+"Main (all landfalls, 30 days)",d406,1568,1.21,0.4,2.03
+14-day window,d35_14,1568,2.54,1.64,3.43
+Hurricane strength (>=64 kt),d35,748,3.72,1.05,6.39
+Hurricane strength (>=64 kt),d406,748,1.18,0.11,2.25
+Excluding China and USA,d35,1190,4.55,2.54,6.56
+Excluding China and USA,d406,1190,0.72,-0.01,1.45
+LMICs only,d35,1033,4.99,2.86,7.11
+High income only,d35,535,5.02,2.23,7.81
+1981-2017 only,d35,1276,4.63,2.47,6.79
+"Placebo: same windows, non-storm years",b35,67424,5.56,4.42,6.71
+Post-landfall minus climatology (mean days),d35,1568,-1.04,,

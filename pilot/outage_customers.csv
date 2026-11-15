@@ -1,0 +1,9 @@
+city,light_loss,reported_share,ratio,customers,customer_source,customer_days_million,customer_days_hi35_million,people_per_customer_low,people_per_customer_high,mean_daily_max_hi,dhi_mean,dhi_p05,dhi_p95
+SanJuan,0.822,1.0,0.822,,,,,,,31.547,2.21,1.475,3.062
+Bhubaneswar,0.824,1.0,0.824,450000.0,electricity consumers in Bhubaneswar (main ref. 30),3.346,3.346,2.418,2.935,40.248,1.321,-0.473,2.996
+NewOrleans,0.454,1.0,0.454,205000.0,Entergy New Orleans peak outages (main ref. 33),1.152,0.988,2.281,5.023,36.272,2.17,0.44,3.846
+Visakhapatnam,0.594,1.0,0.594,,,,,,,33.563,1.92,0.815,2.942
+Zhanjiang,0.564,,,,,,,,,33.603,2.352,-0.557,5.565
+Maoming,0.633,,,,,,,,,33.317,1.798,-0.981,4.091
+Calcutta,0.437,,,,,,,,,40.166,0.493,-3.13,3.061
+Houston,0.554,0.87,0.637,2260000.0,CenterPoint Energy peak outages (main ref. 34),7.933,7.933,1.689,2.652,36.928,0.988,-2.509,3.671

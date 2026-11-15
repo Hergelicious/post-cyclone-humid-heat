@@ -1,0 +1,6 @@
+threshold,detections,control_fp,expected_false,cities
+0.4,3,0.0007178750897343862,0.1,"Bhubaneswar, Maoming, SanJuan"
+0.5,6,0.0014357501794687725,0.3,"Bhubaneswar, Houston, Maoming, SanJuan, Visakhapatnam, Zhanjiang"
+0.6,8,0.005025125628140704,1.0,"Bhubaneswar, Calcutta, Houston, Maoming, NewOrleans, SanJuan, Visakhapatnam, Zhanjiang"
+0.7,11,0.020100502512562814,4.0,"Bhubaneswar, Calcutta, Haikou, Houston, Maoming, NewOrleans, SanJuan, Visakhapatnam, Wenling, Zhanjiang"
+0.75,15,0.054558506819813356,11.0,"Bhubaneswar, Calcutta, Haikou, Houston, Kitakyushu-Fukuoka, Maoming, NewOrleans, SanJuan, Taizhou, Vijayawada, Visakhapatnam, Wenling, Zhanjiang"
